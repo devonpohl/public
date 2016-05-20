@@ -1,5 +1,7 @@
 This repository is currently being used to host work produced as part of the Intro to Data Science class with Metis.
 
+NOTE: I'm trying to model the 'newvisits' variable in the data file and understand how the newtrans factor variable affects it. Hotel publish year, location, transmonth, and rating should all be factorized.
+
 Project Review Questions:
 (1) What data have you gathered, and how did you gather it?
 
