@@ -1,4 +1,4 @@
-newtrans,location,days_before,days_after,transmonth,prevvisits,newvisits,lyprevvisits,lynewvisits,hotel_published_year,latitude,longitude,rating,num_amenities,ta,prev_oyster,new_oyster, price 
+newtrans,location,days_before,days_after,transmonth,prevvisits,newvisits,lyprevvisits,lynewvisits,hotel_published_year,latitude,longitude,rating,num_amenities,ta,prev_oyster,new_oyster,price
 4-full,Caribbean,90,360,52015,0,0,0,0,2012,20.743191,-105.29804,30,12,9715,59,46, 41.4285 
 4-full,Caribbean,90,360,52015,0,0,0,0,2011,20.59852,-105.235988,30,16,30811,233,120, 47.3725 
 4-full,Caribbean,90,360,52015,0,0,0,0,2011,22.895993,-109.905842,25,22,26216,10,23, 59.0000 
