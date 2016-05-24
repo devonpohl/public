@@ -1,4 +1,4 @@
-newtrans,location,days_before,days_after,transmonth,prevvisits,newvisits,lyprevvisits,lynewvisits,hotel_published_year,latitude,longitude,rating,num_amenities,ta,prev_oyster,new_oyster, price 
+newtrans,location,days_before,days_after,transmonth,prevvisits,newvisits,lyprevvisits,lynewvisits,hotel_published_year,latitude,longitude,rating,num_amenities,ta,prev_oyster,new_oyster,price
 4-full,Caribbean,90,360,52015,0,9,3,2,2011,17.9016,-62.8322,45,23,70643,665,671,1726.4948
 4-full,San Francisco/Northern Cali,90,360,52015,1,5,0,1,2011,38.493466,-122.406057,50,23,102549,548,375,1427.9134
 4-full,San Francisco/Northern Cali,90,360,52015,1,6,0,2,2012,38.579933,-122.5133,50,26,164624,2227,1368,1370.7681
